@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6_7;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
